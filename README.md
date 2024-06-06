@@ -1,4 +1,4 @@
-#### Diseño de la valla electrónica  y el software de avisos
+# Diseño de valla electrónica  y software de avisos
 
 El diseño en general esta  conformado por cuatro  sistemas (figura 4.1), para así sub-dividir el problema planteado y resolverlo de una manera mas sencilla y modular. 
 
