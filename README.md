@@ -1,4 +1,4 @@
-#### *Diseño de la valla electrónica  y el software de avisos*
+#### Diseño de la valla electrónica  y el software de avisos
 
 El diseño en general esta  conformado por cuatro  sistemas (figura 4.1), para así sub-dividir el problema planteado y resolverlo de una manera mas sencilla y modular. 
 
@@ -32,4 +32,5 @@ El programa básicamente desarrolla cuatro funciones:
 - Publicidad.
 - Grabar.
 
+![progpublic](https://github.com/gaudikarina/ValladeAvisospublicitarios/assets/71100137/5f2dd01d-b6d1-46bc-bdab-6a2df181c9ae)
 
